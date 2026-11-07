@@ -4,7 +4,7 @@ Demo de un **Property Management System** hotelero de desarrollo propio de **Mar
 
 > Los datos se guardan en el `localStorage` de tu navegador. Cada visitante tiene su propia copia, y puedes reiniciarla desde *Configuración → Datos del hotel*.
 
-📘 **[Manual de usuario completo](docs/MANUAL_USUARIO.md)**: guía paso a paso de todos los módulos, flujos de trabajo, roles y solución de problemas.
+📘 **[Manual de usuario completo](docs/MANUAL_USUARIO.md)** ([versión PDF](docs/MANUAL_USUARIO.pdf)): guía paso a paso de todos los módulos, flujos de trabajo, roles y solución de problemas.
 
 ## Probar la demo
 
